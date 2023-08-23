@@ -10,6 +10,9 @@ spaceShooter is a simple space shooting game where you control a spaceship and m
 4. Use the up arrow key to make the spaceship ascend, the down arrow key to make it descend, and the space bar to shoot enemies.
 5. Dodge obstacles and enemies to score points. The game ends when the spaceship collides with an obstacle or enemy.
 
+## Play the Game
+You can play the game by visiting the following link: [Play spaceShooter](https://darleysantana.github.io/spaceShooter/)
+
 ## Technologies Used
 - HTML5
 - CSS3
@@ -23,3 +26,4 @@ This game was developed by Darlei Santana.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
